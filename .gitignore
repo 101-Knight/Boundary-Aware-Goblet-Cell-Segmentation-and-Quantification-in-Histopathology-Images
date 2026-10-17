@@ -1,0 +1,43 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Dataset
+GCSdataV1.1/
+datasets/
+data/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Large image files
+*.tif
+*.tiff
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Generated predictions
+Predictions/
+
+# Training and processed data
+Clean images/
+SSL_Data/
+binary_train_masks/
+boundary_train_masks/
+distance_train_maps/
+binary_test_masks/
+boundary_test_masks/
+distance_test_maps/
