@@ -1,0 +1,71 @@
+{
+    "info": {
+        "description": "Converted PNG mask to COCO RLE",
+        "url": "n/a",
+        "version": "n/a",
+        "year": 2025,
+        "contributor": "Automated Script",
+        "date_created": "2025/05/24"
+    },
+    "licenses": [
+        {
+            "url": "n/a",
+            "id": 0,
+            "name": "placeholder license"
+        }
+    ],
+    "images": [
+        {
+            "license": 0,
+            "file_name": "fbs09_8.png",
+            "coco_url": "n/a",
+            "height": 256,
+            "width": 256,
+            "date_captured": "",
+            "id": 79,
+            "tag_ids": []
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7581,
+            "image_id": 79,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    256,
+                    256
+                ],
+                "counts": "`_\\11o72N2M4M3L6J1O1O1O1O1001O1O1O1O3M4L4L1O1O1O1O2NR`="
+            },
+            "area": 318,
+            "bbox": [
+                177,
+                233,
+                23,
+                22
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 7582,
+            "image_id": 79,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    256,
+                    256
+                ],
+                "counts": "`_i1`0^72N2N2000000002N1O2N1O1O1O1O001O1O002N4L4LQP1"
+            },
+            "area": 340,
+            "bbox": [
+                229,
+                234,
+                21,
+                21
+            ],
+            "iscrowd": 0
+        }
+    ]
+}

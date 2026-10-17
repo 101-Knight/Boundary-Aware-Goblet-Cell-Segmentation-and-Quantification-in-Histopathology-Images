@@ -1,0 +1,91 @@
+{
+    "info": {
+        "description": "Converted PNG mask to COCO RLE",
+        "url": "n/a",
+        "version": "n/a",
+        "year": 2025,
+        "contributor": "Automated Script",
+        "date_created": "2025/05/24"
+    },
+    "licenses": [
+        {
+            "url": "n/a",
+            "id": 0,
+            "name": "placeholder license"
+        }
+    ],
+    "images": [
+        {
+            "license": 0,
+            "file_name": "fbs15_3.png",
+            "coco_url": "n/a",
+            "height": 256,
+            "width": 256,
+            "date_captured": "",
+            "id": 567,
+            "tag_ids": []
+        }
+    ],
+    "annotations": [
+        {
+            "id": 44232,
+            "image_id": 567,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    256,
+                    256
+                ],
+                "counts": "fUl02l75L2N2N2O1N10001O0N200O11O0O100O2M2N4M2M3N^Zn0"
+            },
+            "area": 281,
+            "bbox": [
+                112,
+                173,
+                21,
+                18
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 44233,
+            "image_id": 567,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    256,
+                    256
+                ],
+                "counts": "Q_h11l74N2N1O2N1O1O2N1O1O1O100O10000O10O010O00100O10000O1000000000`I"
+            },
+            "area": 481,
+            "bbox": [
+                225,
+                208,
+                30,
+                21
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 44234,
+            "image_id": 567,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    256,
+                    256
+                ],
+                "counts": "ogm11l73N2O1000000001O00"
+            },
+            "area": 58,
+            "bbox": [
+                246,
+                249,
+                9,
+                6
+            ],
+            "iscrowd": 0
+        }
+    ]
+}

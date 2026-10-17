@@ -1,0 +1,71 @@
+{
+    "info": {
+        "description": "Converted PNG mask to COCO RLE",
+        "url": "n/a",
+        "version": "n/a",
+        "year": 2025,
+        "contributor": "Automated Script",
+        "date_created": "2025/05/24"
+    },
+    "licenses": [
+        {
+            "url": "n/a",
+            "id": 0,
+            "name": "placeholder license"
+        }
+    ],
+    "images": [
+        {
+            "license": 0,
+            "file_name": "fbs24_34.png",
+            "coco_url": "n/a",
+            "height": 256,
+            "width": 256,
+            "date_captured": "",
+            "id": 222,
+            "tag_ids": []
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14586,
+            "image_id": 222,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    256,
+                    256
+                ],
+                "counts": "ZP35h75M2N2N2O0O1O1O1O101O000000001O0000O100O1N2L4M4LRhf1"
+            },
+            "area": 430,
+            "bbox": [
+                12,
+                0,
+                24,
+                21
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 14587,
+            "image_id": 222,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    256,
+                    256
+                ],
+                "counts": "i0k0V7O1O0O2N2N2N2N2N3M2G[H4k7Ljnl1"
+            },
+            "area": 213,
+            "bbox": [
+                0,
+                25,
+                11,
+                26
+            ],
+            "iscrowd": 0
+        }
+    ]
+}

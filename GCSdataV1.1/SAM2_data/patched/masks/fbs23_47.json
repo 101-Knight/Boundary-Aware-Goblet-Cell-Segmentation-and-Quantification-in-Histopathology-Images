@@ -1,0 +1,91 @@
+{
+    "info": {
+        "description": "Converted PNG mask to COCO RLE",
+        "url": "n/a",
+        "version": "n/a",
+        "year": 2025,
+        "contributor": "Automated Script",
+        "date_created": "2025/05/24"
+    },
+    "licenses": [
+        {
+            "url": "n/a",
+            "id": 0,
+            "name": "placeholder license"
+        }
+    ],
+    "images": [
+        {
+            "license": 0,
+            "file_name": "fbs23_47.png",
+            "coco_url": "n/a",
+            "height": 256,
+            "width": 256,
+            "date_captured": "",
+            "id": 213,
+            "tag_ids": []
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14144,
+            "image_id": 213,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    256,
+                    256
+                ],
+                "counts": "a36k7N2M_To1"
+            },
+            "area": 11,
+            "bbox": [
+                0,
+                113,
+                2,
+                5
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 14145,
+            "image_id": 213,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    256,
+                    256
+                ],
+                "counts": "YU82m72N1O1O2N100O1O10000O1000000000000000O10001N1O2O0KXH0gba1"
+            },
+            "area": 243,
+            "bbox": [
+                32,
+                161,
+                25,
+                11
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 14146,
+            "image_id": 213,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    256,
+                    256
+                ],
+                "counts": "j27j7N2O1N10Sen1"
+            },
+            "area": 20,
+            "bbox": [
+                0,
+                90,
+                4,
+                6
+            ],
+            "iscrowd": 0
+        }
+    ]
+}
